@@ -1,4 +1,4 @@
-# Gabriel-Rodrigo
+# Gabriel Rodrigo
 
 ## Seja Bem-vindo!👋
 
@@ -24,7 +24,7 @@
   <a href = "mailto: gabrielrodrigonaga@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </p>
 
-
+<!--
 <div>
   <p align="center">
    <a href="https://github.com/gabrielrodrig0">
@@ -40,7 +40,7 @@
  </p>
     
 </div>
-
+-->
 
     
 </div>
