@@ -1,4 +1,5 @@
-## Sejam Bem-vindos!
+## Welcome to my Github!
+### I'm a Backend Developer and a Computer Science student.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielrodrig0&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielrodrig0&layout=compact&theme=tokyonight)](https://github.com/gabrielrodrig0/github-readme-stats)
