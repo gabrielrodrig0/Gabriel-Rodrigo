@@ -13,8 +13,7 @@
   <img align="center" alt="GabrielNode" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
   <img align="center" alt="GabrielPG" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 
-<br>
-<hr>
+ ##
  
 <div style="display: flex; justify-content: center; gap: 20px;">
   <a href="mailto:gabrielrodrigonaga@gmail.com">
