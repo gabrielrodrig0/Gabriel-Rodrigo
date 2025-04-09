@@ -1,8 +1,8 @@
 # Gabriel-Rodrigo
 
-##👋
+## Seja Bem-vindo!👋
 
- - 💻<strong>Desenvolvedor Back-end.</strong>
+ - 💻<strong>Desenvolvedor Fullstack.</strong>
   
    <!--<p align="center">
   <a href="https://github.com/gabrielrodrig0">
